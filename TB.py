@@ -1,5 +1,3 @@
-# Based on https://arxiv.org/abs/2507.09690
-
 import numpy as np
 
 def main():
